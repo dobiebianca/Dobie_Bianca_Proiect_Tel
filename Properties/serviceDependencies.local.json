@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Dobie_Bianca_Proiect_TelContext"
+    }
+  }
+}
